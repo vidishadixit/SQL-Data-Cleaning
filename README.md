@@ -49,7 +49,7 @@ Data cleaning in SQL
 * Use aliases or `sp_rename` for clarity.
 * Create staging/clean tables.
 
-**Step 8: Data integrity checks** *(important step you missed)*
+**Step 8: Data integrity checks** 
 
 * Validate uniqueness of primary keys.
 * Validate foreign key consistency.
